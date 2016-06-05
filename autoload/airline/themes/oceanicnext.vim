@@ -32,8 +32,8 @@ let s:cterm0D = "68"
 let s:cterm0E = "176"
 let s:cterm0F = "137"
 
-let s:guiWhite = "#ffffff"
-let s:ctermWhite = "15"
+let s:guiWhite = s:gui06
+let s:ctermWhite = s:cterm06
 
 " Normal mode
 let s:N1 = [ s:guiWhite , s:gui0D , s:ctermWhite , s:cterm0D  ]
